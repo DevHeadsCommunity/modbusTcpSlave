@@ -1,0 +1,13 @@
+../Core/Src/modbus/db.c:16:5:initModbusSlaveData	4
+../Core/Src/modbus/db.c:52:6:freeModbusSlaveData	1
+../Core/Src/modbus/db.c:63:6:dbGetDiscreteInputState	1
+../Core/Src/modbus/db.c:72:6:dbSetDiscreteInputState	2
+../Core/Src/modbus/db.c:88:10:dbGetHoldingRegister	1
+../Core/Src/modbus/db.c:95:6:dbSetHoldingRegister	1
+../Core/Src/modbus/db.c:102:6:getDiscreteInputState	3
+../Core/Src/modbus/db.c:114:6:getHoldingRegister	3
+../Core/Src/modbus/db.c:126:6:setHoldingRegister	3
+../Core/Src/modbus/db.c:138:6:setDiscreteInputState	3
+../Core/Src/modbus/db.c:151:6:dbSetCoilState	2
+../Core/Src/modbus/db.c:167:6:dbGetCoilState	1
+../Core/Src/modbus/db.c:176:6:getCoilState	3

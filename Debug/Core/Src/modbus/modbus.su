@@ -1,0 +1,10 @@
+../Core/Src/modbus/modbus.c:16:13:generateModbusException	24	static
+../Core/Src/modbus/modbus.c:29:13:handleReadDiscreteInputs	32	static
+../Core/Src/modbus/modbus.c:63:13:handleReadHoldingRegisters	32	static
+../Core/Src/modbus/modbus.c:90:13:handleWriteMultipleRegisters	40	static
+../Core/Src/modbus/modbus.c:122:13:handleWriteMultipleCoils	40	static
+../Core/Src/modbus/modbus.c:153:13:handleWriteSingleCoil	32	static
+../Core/Src/modbus/modbus.c:183:10:getModSlaveFrameLen	24	static
+../Core/Src/modbus/modbus.c:208:13:parseModbusFrame	32	static
+../Core/Src/modbus/modbus.c:259:6:handleModbusRequest	32	static
+../Core/Src/modbus/modbus.c:286:6:writeDataToHoldingRegisters	32	static
