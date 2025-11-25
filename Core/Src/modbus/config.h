@@ -26,7 +26,7 @@
  * FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
  * OTHER DEALINGS IN THE SOFTWARE.
  *
- * This file is part of modbus library.
+ * This file is part of modbus tcp library.
  *
  * Author: Umesh Lokhande
  */
